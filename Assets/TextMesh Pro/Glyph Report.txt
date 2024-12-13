@@ -1,0 +1,13 @@
+Font: Silver  Style: Medium
+Point Size: 7054   SP/PD Ratio: 0.1%
+
+Characters included: 3/4
+Missing characters: 1
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 65533	Hex: FFFD	Char [�]
+
+Characters excluded from packing:
+----------------------------------------

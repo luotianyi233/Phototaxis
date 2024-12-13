@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 271fe1352dd7314458d7382ab0d4f73b, type: 3}
+  m_Name: "\u7EC8\u7AE0true11"
+  m_EditorClassIdentifier: 
+  contents:
+  - Give it a try.
+  - (Enter the three-digit number and press Enter to confirm)
+  - ' '
+  branches:
+  - {fileID: 11400000, guid: 27af1b3e13142e644bdcdadc60cef90b, type: 2}
+  - {fileID: 11400000, guid: 58f69a03e115e49409fc88a5cc241d0e, type: 2}
+  whatEvents: 000000000000000006000000
+  colors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  AnimationIndexes: 

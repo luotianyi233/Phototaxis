@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 271fe1352dd7314458d7382ab0d4f73b, type: 3}
+  m_Name: "\u7EC8\u7AE0true112"
+  m_EditorClassIdentifier: 
+  contents:
+  - "It doesn\u2019t seem right..."
+  - Should I try again?
+  - ' '
+  branches:
+  - {fileID: 11400000, guid: 913c52b520a87024297f9628180298b8, type: 2}
+  - {fileID: 11400000, guid: 48febf1c3b9c29d4abec3d2ceaf3678f, type: 2}
+  whatEvents: 000000000000000003000000
+  colors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  AnimationIndexes: 

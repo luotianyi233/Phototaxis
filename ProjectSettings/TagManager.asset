@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Trap
+  - Pedal
+  - NormalLight
+  - Attack
+  - Monster
+  - followAtLeft
+  - followAtRight
+  - followAtCenter
+  - SwitchStage
+  - DeadZone
+  - GravityLight
+  - ReverseLight
+  - TeleportLight
+  - Hp
+  - Energy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - PostProcess
+  - Player
+  - CanNotClimbGround
+  - MonsterIgnore
+  - Monster
+  - SpawnPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 2541126897
+    locked: 0
+  - name: Middle
+    uniqueID: 883061127
+    locked: 0
+  - name: Front
+    uniqueID: 3419766119
+    locked: 0
